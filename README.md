@@ -1,6 +1,7 @@
 # deep-Learning
 
-assignment 
+assignment1 Ning Ni.ipynb
+MLP assignemnt
 
 assignment2 Ning Ni a1869549.ipynb is the main code
 .pth files that contain words like vgg,resnet,densenet were the results of CNNs models which can be loaded by assignment2 Ning Ni a1869549.ipynb for plot learning curve.
